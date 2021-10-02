@@ -8,7 +8,7 @@ import java.util.List;
 import java.util.Random;
 
 public class ProductsPage extends BasePage {
-    By moreButtonLocator = By.xpath("//*[@id=\"divModels\"]/div[7]/div/div[4]/a");
+    By moreButtonLocator = By.xpath("//p[@class='lazy-load-text']");
     By productNameLocator = By.cssSelector("a.a_model_item");
     public ProductsPage(WebDriver driver) {
         super(driver);
