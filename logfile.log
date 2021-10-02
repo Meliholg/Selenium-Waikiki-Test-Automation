@@ -1,0 +1,7 @@
+2021-10-02 17:33:52,569 INFO  [Log] homepage_start() PASSED 
+2021-10-02 17:33:54,978 INFO  [Log] login() PASSED 
+2021-10-02 17:33:56,014 INFO  [Log] search_product() PASSED 
+2021-10-02 17:33:59,731 INFO  [Log] select_product() PASSED 
+2021-10-02 17:34:02,438 INFO  [Log] add_to_cart() PASSED 
+2021-10-02 17:34:02,758 INFO  [Log] go_to_cart() PASSED 
+2021-10-02 17:34:03,475 INFO  [Log] clean_cart() PASSED 
